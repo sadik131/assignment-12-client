@@ -25,7 +25,7 @@ const Blog = () => {
             </div>
             <div className='rounded-lg shadow-lg bg-white p-3 text-justify'>
                 <h1 className='text-xl font-bold'>Find the products by useing name</h1>
-                <p> <span>In the products array, to get product by name.If we fliter in the array we get the all product useing name. For example, products.filter(element=>element.name) </span></p>
+                <p> <span>In the products array, to get product by name.If we fliter in the array we get the all product useing name. For example, products.filter(element=>element name) </span></p>
 
             </div>
             <div className='rounded-lg shadow-lg bg-white p-3 text-justify'>
